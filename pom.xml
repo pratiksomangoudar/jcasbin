@@ -105,7 +105,7 @@
         <dependency>
             <groupId>com.googlecode.aviator</groupId>
             <artifactId>aviator</artifactId>
-            <version>4.1.2</version>
+            <version>4.2.10</version>
         </dependency>
         <dependency>
             <groupId>com.github.seancfoley</groupId>
